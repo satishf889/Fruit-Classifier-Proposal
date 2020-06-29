@@ -1,7 +1,9 @@
-Introduction
+# Fruit Classifier(Smart Farming) Proposal
 
-My Udacity Nanodegree Project,I choose to implement a Fruit recognisor that predicts the label of the input frut image.
+### Introduction
 
-Dataset Link
+- This repository contains proposal for Fruit Classifier Model, which was part of Udacity Machine Learning Advanced Nanodegree program.
+- This propsal conatins complete idea for developing Fruit Classifier Model
 
-kaggle:https://www.kaggle.com/moltean/fruits
+### Dataset Link https://www.kaggle.com/moltean/fruits
+
